@@ -14,4 +14,4 @@ Time > 1515 or PNL > 6000inr or PNL < -3000
 
 
 
-Disclaimer: This is my personal project which is coded on tradetron, for codes ping me up.
+Disclaimer: This is a algorithmic strategy which is also my personal project which is coded on tradetron, for codes ping me up.
